@@ -1,0 +1,112 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 811,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:5HZtdKfC4xU0wvhEyYDWiY"
+      },
+      {
+        "artistUri": "spotify:artist:4wZ6awunqaaVLl5j0WpDFu"
+      },
+      {
+        "artistUri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+      },
+      {
+        "artistUri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "artistUri": "spotify:artist:3qNVuliS40BLgXGxhdBdqu"
+      }
+    ],
+    "topArtistMilliseconds": 350593985,
+    "topArtistFanPercentage": 5.0625834E-4
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+      "spotify:show:5RWKykRm6KXHEDYJsp9G0N",
+      "spotify:show:4m7U7kNne0iu35HK571Ui8",
+      "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
+      "spotify:show:3CF9ANEicXGxEROA3cOryE",
+      "spotify:show:5vM3k7XDCwE3FJfPayBy52"
+    ],
+    "topPodcastMilliseconds": 86787490,
+    "topPodcastPercentage": 0.0,
+    "totalPodcastMilliseconds": 273362960
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:4nXrVH5xwN1w6TpmP7uu8n",
+      "spotify:track:2GE2p2dFpxp7OIz2QOFBzW",
+      "spotify:track:3Vo5KWON7ii5Cs6gAivUWH",
+      "spotify:track:31VNCmwspR7nVJ6kruUuJt",
+      "spotify:track:1K0HQ30Wc11okzlcnFA7Ub"
+    ],
+    "topTrackPlayCount": 502,
+    "topTrackFirstPlayedDate": "2024-08-26",
+    "distinctTracksPlayed": 1826
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 3325775976,
+    "mostListenedDay": "2024-05-12",
+    "mostListenedDayMinutes": 1437.545,
+    "percentGreaterThanWorldwideUsers": 96.43918
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 5,
+        "color": "red-blue",
+        "genre": "k-pop",
+        "mood": "hallyu",
+        "descriptor": "catwalk",
+        "pivotalArtists": [
+          "spotify:artist:6YVMFz59CuY7ngCxTxjpxE",
+          "spotify:artist:3qNVuliS40BLgXGxhdBdqu",
+          "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
+        ],
+        "tracks": [
+          {
+            "trackName": "Feel My Rhythm",
+            "trackUri": "spotify:track:2oBMZYteeO8DyXV9gDx6Za"
+          },
+          {
+            "trackName": "Drama",
+            "trackUri": "spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew"
+          },
+          {
+            "trackName": "You & Me",
+            "trackUri": "spotify:track:6xXCn7H2Yl8SDD6jxo5SpN"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 10,
+        "color": "blue",
+        "genre": "v-pop",
+        "mood": "chill",
+        "descriptor": "popping",
+        "pivotalArtists": [
+          "spotify:artist:4wZ6awunqaaVLl5j0WpDFu",
+          "spotify:artist:5HZtdKfC4xU0wvhEyYDWiY",
+          "spotify:artist:5dfZ5uSmzR7VQK0udbAVpf"
+        ],
+        "tracks": [
+          {
+            "trackName": "Exit Sign",
+            "trackUri": "spotify:track:4nXrVH5xwN1w6TpmP7uu8n"
+          },
+          {
+            "trackName": "KIM PHÚT, KIM GIỜ (feat. HURRYKNG, HIEUTHUHAI, Negav, Pháp Kiều & Isaac)",
+            "trackUri": "spotify:track:2GE2p2dFpxp7OIz2QOFBzW"
+          },
+          {
+            "trackName": "Gặp lại năm ta 60",
+            "trackUri": "spotify:track:3Vo5KWON7ii5Cs6gAivUWH"
+          }
+        ]
+      }
+    ]
+  }
+}
